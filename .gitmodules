@@ -1,3 +1,0 @@
-[submodule "dynet_toolbox"]
-	path = dynet_toolbox
-	url = git@github.com:PscDavid/dynet_toolbox.git
